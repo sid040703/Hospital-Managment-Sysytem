@@ -1,0 +1,12 @@
+/* src/App.css */
+.app-container {
+  display: flex;
+}
+
+.main-content {
+  margin-left: 250px;
+  padding: 20px;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #ecf0f1;
+}
